@@ -27,3 +27,30 @@ $ cd TMail-Project-CLI
 $ php TMail.php
 
 ```
+# API TMail
+- TMail API Example
+```shell
+* Get list Domain
+https://outlock.my.id/api/domains/[apikey]
+
+* Create Email TMail
+https://outlock.my.id/api/email/[email]/[apikey]
+
+* Fetch Message
+https://outlock.my.id/api/messages/[email]/[apikey]
+
+```
+- https://outlock.my.id/api/domains/[apikey]
+<center><img src="list.png" alt="Domain list"></center>
+
+- https://outlock.my.id/api/messages/[email]/[apikey]
+<center><img src="read.png" alt="Read mail"></center>
+
+# Note
+If you need API KEY TMail Email system, you can contact me because apikey is not free.
+
+regards,
+**Iddant ID**
+
+
+
